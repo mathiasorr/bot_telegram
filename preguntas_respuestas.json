@@ -1,0 +1,100 @@
+{
+  "temas": {
+    "Eficiencia energética": {
+      "preguntas": [
+        {
+          "pregunta": "¿Qué es la eficiencia energética?",
+          "respuesta": "La eficiencia energética es el uso racional de la energía para realizar una actividad sin desperdiciar recursos."
+        },
+        {
+          "pregunta": "¿Por qué es importante la eficiencia energética en telecomunicaciones?",
+          "respuesta": "Es crucial para reducir costos operativos, mejorar el rendimiento y disminuir el impacto ambiental."
+        },
+        {
+          "pregunta": "¿Cómo puede una empresa de telecomunicaciones mejorar su eficiencia energética?",
+          "respuesta": "Optimizando sus infraestructuras, utilizando dispositivos de bajo consumo y empleando fuentes de energía renovable."
+        },
+        {
+          "pregunta": "¿Cuáles son los principales retos para mejorar la eficiencia energética en las telecomunicaciones?",
+          "respuesta": "El coste de actualización de infraestructura, la falta de incentivos y la dependencia de tecnologías antiguas."
+        },
+        {
+          "pregunta": "¿Qué tecnologías pueden mejorar la eficiencia energética en redes de telecomunicaciones?",
+          "respuesta": "El uso de 5G, virtualización de redes y energías renovables como la solar y eólica pueden ser clave."
+        }
+      ]
+    },
+    "Cortes de luz": {
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo afectan los cortes de luz a las telecomunicaciones?",
+          "respuesta": "Los cortes de luz pueden interrumpir la conectividad y el funcionamiento de los equipos de telecomunicaciones."
+        },
+        {
+          "pregunta": "¿Qué dispositivos son más vulnerables a los cortes de luz?",
+          "respuesta": "Dispositivos como routers, servidores y estaciones base son muy sensibles a los cortes de energía."
+        },
+        {
+          "pregunta": "¿Cómo afectan los cortes de luz a la calidad de los servicios de Internet?",
+          "respuesta": "Pueden causar interrupciones en el servicio, lentitud y pérdidas de datos, afectando la experiencia del usuario."
+        },
+        {
+          "pregunta": "¿Qué medidas se pueden tomar para proteger los dispositivos de telecomunicaciones de los cortes de luz?",
+          "respuesta": "Instalar sistemas de respaldo de energía como UPS o generadores de energía alternativos para mantener el funcionamiento."
+        },
+        {
+          "pregunta": "¿Cuál es la duración típica de los cortes de luz en las áreas urbanas?",
+          "respuesta": "Varía según la región y la infraestructura, pero suelen durar entre 30 minutos a 2 horas en áreas urbanas."
+        }
+      ]
+    },
+    "Telecomunicaciones móviles": {
+      "preguntas": [
+        {
+          "pregunta": "¿Qué es 5G y cómo mejora las telecomunicaciones?",
+          "respuesta": "5G es la quinta generación de tecnología móvil, que ofrece velocidades más rápidas, latencia reducida y mayor capacidad de conexión."
+        },
+        {
+          "pregunta": "¿Cuáles son las principales diferencias entre 4G y 5G?",
+          "respuesta": "5G ofrece velocidades mucho más altas, mejor conectividad para dispositivos masivos y menor latencia en comparación con 4G."
+        },
+        {
+          "pregunta": "¿Cómo afecta el uso de 5G a la eficiencia energética?",
+          "respuesta": "Aunque el 5G puede consumir más energía debido a su infraestructura avanzada, su optimización y uso eficiente puede generar un ahorro global."
+        },
+        {
+          "pregunta": "¿Cuáles son las ventajas de la tecnología móvil para el Internet de las Cosas (IoT)?",
+          "respuesta": "Las redes móviles permiten la conexión de miles de dispositivos IoT, ofreciendo cobertura global y escalabilidad."
+        },
+        {
+          "pregunta": "¿Cómo se está utilizando el 5G en aplicaciones de realidad aumentada (AR)?",
+          "respuesta": "El 5G permite transmitir grandes cantidades de datos de manera instantánea, mejorando la experiencia de AR con menor latencia y mayor interactividad."
+        }
+      ]
+    },
+    "Energías renovables": {
+      "preguntas": [
+        {
+          "pregunta": "¿Qué es la energía solar y cómo puede ayudar a las telecomunicaciones?",
+          "respuesta": "La energía solar es una fuente renovable que aprovecha la radiación solar para generar electricidad, siendo útil para alimentar equipos de telecomunicaciones de forma sostenible."
+        },
+        {
+          "pregunta": "¿Cuáles son las ventajas de usar energías renovables en las infraestructuras de telecomunicaciones?",
+          "respuesta": "Reducción de costos operativos a largo plazo, menor huella de carbono y mayor autonomía en áreas remotas sin acceso a la red eléctrica."
+        },
+        {
+          "pregunta": "¿Cómo se integra la energía eólica en las telecomunicaciones?",
+          "respuesta": "Se utiliza en torres y estaciones de telecomunicaciones remotas donde la energía eléctrica convencional no es viable, asegurando continuidad en el servicio."
+        },
+        {
+          "pregunta": "¿Qué es un sistema de energía híbrido y cómo se aplica en telecomunicaciones?",
+          "respuesta": "Es un sistema que combina varias fuentes de energía, como solar y eólica, para garantizar una fuente de alimentación continua en sitios aislados de telecomunicaciones."
+        },
+        {
+          "pregunta": "¿Cuáles son los retos de integrar energías renovables en redes de telecomunicaciones?",
+          "respuesta": "La intermitencia de la fuente de energía, la necesidad de almacenamiento de energía y la alta inversión inicial son algunos de los retos a superar."
+        }
+      ]
+    }
+  }
+}
