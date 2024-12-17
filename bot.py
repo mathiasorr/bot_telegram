@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # Obtener el token desde una variable de entorno
-TOKEN = os.getenv("7935540841:AAHeU2ErYGWb1GLSVl6PaBq_JNGM9rjOFBQ")
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 if not TOKEN:
     raise ValueError("El token no está definido. Configura la variable de entorno TELEGRAM_BOT_TOKEN.")
 
